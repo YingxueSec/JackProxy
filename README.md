@@ -1,5 +1,3 @@
-# JackProxy
-
 # JackProxy - 让IP跳舞的赛博傀儡师 💃
 
 [![GitHub Stars](https://img.shields.io/github/stars/yourname/JackProxy?style=flat-square&label=星の原力)](https://github.com/yourname/JackProxy) 
@@ -11,18 +9,22 @@
 > 3. 蜜罐系统怀疑人生并开始写辞职信 💌  
 
 ## 🎩 魔法特性
-- ​**IP变形术**​  
-  🌪️ 让代理池像灭霸的响指——IP随机灰飞烟灭又重生！  
-  （温馨提示：不是所有消失的IP都会回来，毕竟有些是战五渣💨）
+​智能爬虫引擎​
+🕷️ 7×24小时全网扫描：从30+公开代理站到暗网API的全面收割
+🛡️ 协议通杀：HTTP/HTTPS/SOCKS4/5 一键切换
+🚦 自适应频率：根据存活率动态调整收割节奏（5min~2h）
 
-- ​**反侦察模式**​  
-  🕶️ 内置《黑客帝国》同款子弹时间——当检测到异常流量时自动开启  
-  （效果参考：您当前的IP ≈ 尼奥躲子弹时的残影）
+​动态轮换矩阵​
+⏱️ 反侦察模式：智能识别目标站点防御策略，自动切换IP伪装策略
+🌍 地域漂移术：上海→新加坡→洛杉矶的量子纠缠级跳板链
+🤖 UA变形器：每请求自动加载随机User-Agent（含WinXP古董级浏览器彩蛋）
 
-- ​**摸鱼助手**​  
-  🐟 可视化仪表盘自带老板键皮肤，一键切换《2024最新财报分析.xlsx》界面  
-  （别问，问就是在做数据可视化课题！）
-
+​自愈型代理池​
+🚨 三级熔断检测：
+ 1️⃣ TCP握手三秒定生死
+ 2️⃣ 自定义URL存活验证（支持CAPTCHA反杀功能）
+ 3️⃣ 延迟波动>50ms立即流放
+🔥 冷却黑名单：异常IP打入15分钟「阿兹卡班监狱」，三次越狱失败永久封禁
 ## 🚨 食用指南
 【教程】 【Jack-Proxy高级代理池工具【自动轮换ip】渗透、攻防必备！(免费)】 https://www.bilibili.com/video/BV1eoPvexEPA/?share_source=copy_web&vd_source=8d27561e7ff5f9ee67aacc0cba1de735
 内测进群体验。
